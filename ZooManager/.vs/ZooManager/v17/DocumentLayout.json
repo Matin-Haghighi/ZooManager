@@ -1,0 +1,166 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SOURCE\\source\\repos\\ZooManager\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B41752DC-305B-43E0-A667-41F8273C0AE4}|ZooManager\\ZooManager.csproj|c:\\users\\source\\source\\repos\\zoomanager\\zoomanager\\efpersistance\\efcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B41752DC-305B-43E0-A667-41F8273C0AE4}|ZooManager\\ZooManager.csproj|solutionrelative:zoomanager\\efpersistance\\efcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B41752DC-305B-43E0-A667-41F8273C0AE4}|ZooManager\\ZooManager.csproj|c:\\users\\source\\desktop\\matin\\learn app\\c#\\sqlserver\\zoomanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B41752DC-305B-43E0-A667-41F8273C0AE4}|ZooManager\\ZooManager.csproj|c:\\users\\source\\source\\repos\\zoomanager\\zoomanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B41752DC-305B-43E0-A667-41F8273C0AE4}|ZooManager\\ZooManager.csproj|solutionrelative:zoomanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B41752DC-305B-43E0-A667-41F8273C0AE4}|ZooManager\\ZooManager.csproj|c:\\users\\source\\source\\repos\\zoomanager\\zoomanager\\entitis\\part.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B41752DC-305B-43E0-A667-41F8273C0AE4}|ZooManager\\ZooManager.csproj|solutionrelative:zoomanager\\entitis\\part.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B41752DC-305B-43E0-A667-41F8273C0AE4}|ZooManager\\ZooManager.csproj|c:\\users\\source\\source\\repos\\zoomanager\\zoomanager\\entitis\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B41752DC-305B-43E0-A667-41F8273C0AE4}|ZooManager\\ZooManager.csproj|solutionrelative:zoomanager\\entitis\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B41752DC-305B-43E0-A667-41F8273C0AE4}|ZooManager\\ZooManager.csproj|c:\\users\\source\\source\\repos\\zoomanager\\zoomanager\\entitis\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B41752DC-305B-43E0-A667-41F8273C0AE4}|ZooManager\\ZooManager.csproj|solutionrelative:zoomanager\\entitis\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B41752DC-305B-43E0-A667-41F8273C0AE4}|ZooManager\\ZooManager.csproj|c:\\users\\source\\source\\repos\\zoomanager\\zoomanager\\entitis\\zoo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B41752DC-305B-43E0-A667-41F8273C0AE4}|ZooManager\\ZooManager.csproj|solutionrelative:zoomanager\\entitis\\zoo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B41752DC-305B-43E0-A667-41F8273C0AE4}|ZooManager\\ZooManager.csproj|c:\\users\\source\\source\\repos\\zoomanager\\zoomanager\\migrations\\20240917092931_intal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B41752DC-305B-43E0-A667-41F8273C0AE4}|ZooManager\\ZooManager.csproj|solutionrelative:zoomanager\\migrations\\20240917092931_intal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B41752DC-305B-43E0-A667-41F8273C0AE4}|ZooManager\\ZooManager.csproj|c:\\users\\source\\source\\repos\\zoomanager\\zoomanager\\migrations\\efcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B41752DC-305B-43E0-A667-41F8273C0AE4}|ZooManager\\ZooManager.csproj|solutionrelative:zoomanager\\migrations\\efcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SOURCE\\Desktop\\matin\\Learn app\\C#\\SQLserver\\ZooManager\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Desktop\\matin\\Learn app\\C#\\SQLserver\\ZooManager\\Program.cs",
+              "ToolTip": "C:\\Users\\SOURCE\\Desktop\\matin\\Learn app\\C#\\SQLserver\\ZooManager\\Program.cs",
+              "RelativeToolTip": "..\\..\\..\\Desktop\\matin\\Learn app\\C#\\SQLserver\\ZooManager\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T12:53:32.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EFContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\SOURCE\\source\\repos\\ZooManager\\ZooManager\\Migrations\\EFContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "ZooManager\\Migrations\\EFContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\SOURCE\\source\\repos\\ZooManager\\ZooManager\\Migrations\\EFContextModelSnapshot.cs",
+              "RelativeToolTip": "ZooManager\\Migrations\\EFContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T09:30:34.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20240917092931_intal.cs",
+              "DocumentMoniker": "C:\\Users\\SOURCE\\source\\repos\\ZooManager\\ZooManager\\Migrations\\20240917092931_intal.cs",
+              "RelativeDocumentMoniker": "ZooManager\\Migrations\\20240917092931_intal.cs",
+              "ToolTip": "C:\\Users\\SOURCE\\source\\repos\\ZooManager\\ZooManager\\Migrations\\20240917092931_intal.cs",
+              "RelativeToolTip": "ZooManager\\Migrations\\20240917092931_intal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T09:29:31.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EFContext.cs",
+              "DocumentMoniker": "C:\\Users\\SOURCE\\source\\repos\\ZooManager\\ZooManager\\EFPersistance\\EFContext.cs",
+              "RelativeDocumentMoniker": "ZooManager\\EFPersistance\\EFContext.cs",
+              "ToolTip": "C:\\Users\\SOURCE\\source\\repos\\ZooManager\\ZooManager\\EFPersistance\\EFContext.cs",
+              "RelativeToolTip": "ZooManager\\EFPersistance\\EFContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T07:34:57.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "C:\\Users\\SOURCE\\source\\repos\\ZooManager\\ZooManager\\Entitis\\Animal.cs",
+              "RelativeDocumentMoniker": "ZooManager\\Entitis\\Animal.cs",
+              "ToolTip": "C:\\Users\\SOURCE\\source\\repos\\ZooManager\\ZooManager\\Entitis\\Animal.cs",
+              "RelativeToolTip": "ZooManager\\Entitis\\Animal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T07:17:23.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Ticket.cs",
+              "DocumentMoniker": "C:\\Users\\SOURCE\\source\\repos\\ZooManager\\ZooManager\\Entitis\\Ticket.cs",
+              "RelativeDocumentMoniker": "ZooManager\\Entitis\\Ticket.cs",
+              "ToolTip": "C:\\Users\\SOURCE\\source\\repos\\ZooManager\\ZooManager\\Entitis\\Ticket.cs",
+              "RelativeToolTip": "ZooManager\\Entitis\\Ticket.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T07:17:13.321Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Part.cs",
+              "DocumentMoniker": "C:\\Users\\SOURCE\\source\\repos\\ZooManager\\ZooManager\\Entitis\\Part.cs",
+              "RelativeDocumentMoniker": "ZooManager\\Entitis\\Part.cs",
+              "ToolTip": "C:\\Users\\SOURCE\\source\\repos\\ZooManager\\ZooManager\\Entitis\\Part.cs",
+              "RelativeToolTip": "ZooManager\\Entitis\\Part.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T07:16:46.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Zoo.cs",
+              "DocumentMoniker": "C:\\Users\\SOURCE\\source\\repos\\ZooManager\\ZooManager\\Entitis\\Zoo.cs",
+              "RelativeDocumentMoniker": "ZooManager\\Entitis\\Zoo.cs",
+              "ToolTip": "C:\\Users\\SOURCE\\source\\repos\\ZooManager\\ZooManager\\Entitis\\Zoo.cs",
+              "RelativeToolTip": "ZooManager\\Entitis\\Zoo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T07:16:17.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SOURCE\\source\\repos\\ZooManager\\ZooManager\\Program.cs",
+              "RelativeDocumentMoniker": "ZooManager\\Program.cs",
+              "ToolTip": "C:\\Users\\SOURCE\\source\\repos\\ZooManager\\ZooManager\\Program.cs",
+              "RelativeToolTip": "ZooManager\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T07:14:15.522Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
